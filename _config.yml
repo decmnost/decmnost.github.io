@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "컴알못 문돌이의 이것저것 도전기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "H.H.YOU"
 description              : "An amazing website."
 url                      : "https://decmnost.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
